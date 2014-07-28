@@ -10,7 +10,7 @@
     "require": {
         "php": ">=5.3.3",
         "symfony/symfony": ">=2.2.0,<2.3",
-        "seiffert/crowd-rest-bundle": "dev-master"
+        "seiffert/crowd-rest-bundle": "dev-patch-1"
     },
     "require-dev": {
         "phpmd/phpmd": "1.4.0",
